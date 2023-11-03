@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+.warning{
+    color: rgb(148, 59, 59);
+}
+
+.message{
+    font-weight: 600;
+    font-size: large;
+    line-height: 1;
+}
+
+.image{
+    height: 400;
+    width: 400;
+}
+
+.discription{
+    font-size: 20;
+    line-height: 0.99;
+    font-weight: 500;
+}

@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    color:rgb(55, 43, 67);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 40;
+}
+
+header{
+    background-color: rgb(36, 33, 33);
+    padding-bottom: 20;
+}
+header #logo{
+    color:rgb(212, 202, 222);
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 30;
+}
+
+img{
+    padding: 15 15 15 15;
+    height: 400;
+    width: 400;
+}
